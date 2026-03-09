@@ -3,6 +3,7 @@
 #include "matplotlibcpp.h"
 // 356 and 354 have been commented out 
 #include <vector>
+#include <map>
 
 namespace plt = matplotlibcpp;
 
